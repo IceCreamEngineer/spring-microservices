@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.training.microservices.restfulwebservices;
+package com.training.microservices.restfulwebservices.helloworld;
 
 /**
  * @author Matt
