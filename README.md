@@ -16,3 +16,10 @@
  - Retrieve all posts for a User - GET /users/{id}/posts
  - Create a post for a User - POST /users/{id}/posts
  - Retrieve details of a post - GET /users/{id}/posts/{post_id}
+ 
+ # Swagger
+ 
+ Swagger automatically generates really great documentation for all HTTP requests/responses your 
+ REST service can handle.
+ 
+ Example URL: http://localhost:8080/swagger-ui/
