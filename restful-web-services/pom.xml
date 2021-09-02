@@ -54,8 +54,7 @@
 		
 		<dependency>
 		    <groupId>org.springframework.data</groupId>
-		    <artifactId>spring-data-rest-hal-browser</artifactId>
-		    <version>3.3.5.RELEASE</version>
+		    <artifactId>spring-data-rest-hal-explorer</artifactId>
 		</dependency>
 
 		<dependency>
